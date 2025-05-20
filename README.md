@@ -1,5 +1,12 @@
 # fixture_generation
 
+---
+<p align="center">
+<img src='figure.png' width='600'>
+<p>
+
+---
+
 This repository contains files and code for the paper **Towards Autonomous Data Annotation and System-Agnostic Robotic Benchmarking with 3D-Printed Fixtures**.
 
 If you find this project useful for your research, consider citing
@@ -12,13 +19,6 @@ If you find this project useful for your research, consider citing
   organization={IEEE}
 }
 ```
-
----
-<p align="center">
-<img src='figure.png' width='600'>
-<p>
-
----
 
 ## Overview
 
